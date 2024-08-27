@@ -1,10 +1,10 @@
 body {
-	background-color: #690bb6a6;
+	background-color: #69038a46;
 	font-family: 'Times New Roman', Times, serif, sans-serif;
 }
 
 header {
-	background-color: #d379ef;
+	background-color: #6306bf;
 	color: #fff;
 	padding: 20px;
 	text-align: center;
@@ -22,7 +22,7 @@ nav li {
 }
 
 nav a {
-	color: #8515da5c;
+	color: #310256c3;
 	text-decoration: none;
 }
 
@@ -54,14 +54,14 @@ img {
 
 
 .menu {
-	background-color: #8d08e58e;
-	color: #d262e3a1;
+	background-color: #7308e540;
+	color: #330355cc;
 	padding: 10px;
 	border-radius: 10px;
 }
 
 .menu:hover {
-	background-color: #b85ce3be;
+	background-color: #4e037149;
 }
 
 
