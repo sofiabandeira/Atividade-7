@@ -85,3 +85,8 @@ a:hover {
 	height: 50%;
 	margin: 5px;
 }
+.container {
+	text-align: center;
+	
+	border: 1px solid;
+  }
